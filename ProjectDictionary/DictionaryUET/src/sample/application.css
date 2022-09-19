@@ -1,0 +1,63 @@
+.buttonItem:hover {
+    -fx-background-color: #5C5A61;
+    -fx-border-width: 0px 0px 0px 3px;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.buttonItem:focused {
+    -fx-background-color:  #76747b;
+}
+
+.circle:hover{
+    -fx-background-color: #000000;
+}
+
+.side{
+    -fx-background-radius: 10 10 10 10;
+    -fx-background-color: #36343B;
+}
+
+.layout{
+    -fx-background-color:  #211D27;
+    -fx-background-radius: 20 20 20 20;
+
+}
+.textField {
+    -fx-background-image:url('Images/diction.png');
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left center;
+    -fx-background-radius: 10 10 10 10;
+    -fx-background-color: #36343B;
+    -fx-border-color: #f4e9e5;
+    -fx-border-radius: 10 10 10 10;
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+}
+
+.textArea .content {
+    -fx-background-color: #211D27;
+}
+
+.textArea{
+    -fx-background-color: #211D27;
+    -fx-text-fill: #ececec;
+}
+
+.buttonTranslate {
+    -fx-background-radius: 30 30 30 30;
+    -fx-background-color: white;
+
+}
+
+.buttonTranslate:pressed {
+    -fx-border-color:  #107ee4;
+    -fx-border-radius: 30 30 30 30;
+}
+
+
+
+
+
+
+
+
